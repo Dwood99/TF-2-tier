@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/home/dwood99/TF-2-TIER"
+		},
+		{
+			"name": "TF-2-tier",
+			"uri": "vscode-remote://wsl+ubuntu/home/dwood99/TF-2-TIER/TF-2-tier"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}
